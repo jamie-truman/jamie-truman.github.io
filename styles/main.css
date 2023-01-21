@@ -79,7 +79,40 @@ body {
 
 } 
 
+#identity {
+    margin: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    border: 15px;
+    border-color:cadetblue;
+    border-style: solid;
+    background-color: cadetblue;
+    border-radius: 20px 20px 20px 20px;
+}
 
+#plan {
+    margin: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    border: 15px;
+    border-color:cadetblue;
+    border-style: solid;
+    background-color: cadetblue;
+    border-radius: 20px 20px 20px 20px;
+}
+
+
+#para {
+    margin: 100px
+}
+
+footer{
+    background-color: cadetblue;
+    background-size: 30px;
+    text-align:center;
+}
 
 
   
