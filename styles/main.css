@@ -114,6 +114,18 @@ footer{
     text-align:center;
 }
 
+#mindfull {
+    margin: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    border: 15px;
+    border-color:cadetblue;
+    border-style: solid;
+    background-color: cadetblue;
+    border-radius: 20px 20px 20px 20px;
+}
+
 @media (max-width: 800px) {
     p {
         font-size: 15px;
